@@ -1,0 +1,53 @@
+---
+title: 'Home'
+date: 2023-10-24
+type: landing
+
+design:
+  # Default section spacing
+  spacing: "6rem"
+
+sections:
+  - block: cta-image-paragraph
+    id: bonbons
+    content:
+      items:
+        - title: Handwerk Bonbons
+          text: De allerlekkerste!
+          feature_icon: check
+          features:
+            - "Handgemaakt"
+            - "Beste kwaliteit chocolade"
+            - "Alleen de beste ingredienten"
+          # Upload image to `assets/media/` and reference the filename here
+          image: clogo.png
+          #button:
+          #  text: Get Started
+          #  url: https://hugoblox.com/templates/
+        - title: Large Community
+          text: Join our large community on Discord - ask questions and get live responses
+          feature_icon: bolt
+          features:
+            - "Dedicated support channel"
+            - "3,000+ users on Discord"
+            - "Share your site and get feedback"
+          # Upload image to `assets/media/` and reference the filename here
+          image: coffee.jpg
+          button:
+            text: Join Discord
+            url: https://discord.gg/z8wNYzb
+  - block:
+    id: workshops
+    content:
+      title: Workshops
+      text: De leukste workshops
+      items:
+        - name: 3 uur workshop
+          icon: magnifying-glass
+          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+
+
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+---

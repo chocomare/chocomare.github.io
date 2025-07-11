@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Creator&#39;s Landing Page | Hugo Theme</title>
-    <link>https://choco.keennews.nl/categories/</link>
-      <atom:link href="https://choco.keennews.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chocomare.nl/categories/</link>
+      <atom:link href="https://chocomare.nl/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://choco.keennews.nl/media/logo_hu_d80d8ddc75cf3dc.png</url>
+      <url>https://chocomare.nl/media/logo_hu_d80d8ddc75cf3dc.png</url>
       <title>Categories</title>
-      <link>https://choco.keennews.nl/categories/</link>
+      <link>https://chocomare.nl/categories/</link>
     </image>
     
   </channel>

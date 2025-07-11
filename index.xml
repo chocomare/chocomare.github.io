@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home | Creator&#39;s Landing Page | Hugo Theme</title>
-    <link>https://choco.keennews.nl/</link>
-      <atom:link href="https://choco.keennews.nl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://chocomare.nl/</link>
+      <atom:link href="https://chocomare.nl/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://choco.keennews.nl/media/logo_hu_d80d8ddc75cf3dc.png</url>
+      <url>https://chocomare.nl/media/logo_hu_d80d8ddc75cf3dc.png</url>
       <title>Home</title>
-      <link>https://choco.keennews.nl/</link>
+      <link>https://chocomare.nl/</link>
     </image>
     
     <item>
       <title>Privacy</title>
-      <link>https://choco.keennews.nl/privacy/</link>
+      <link>https://chocomare.nl/privacy/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://choco.keennews.nl/privacy/</guid>
+      <guid>https://chocomare.nl/privacy/</guid>
       <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms of Service</title>
-      <link>https://choco.keennews.nl/terms/</link>
+      <link>https://chocomare.nl/terms/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://choco.keennews.nl/terms/</guid>
+      <guid>https://chocomare.nl/terms/</guid>
       <description>&lt;p&gt;Algemene voorwaarden.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Page not found</title>
-      <link>https://choco.keennews.nl/404.html</link>
+      <link>https://chocomare.nl/404.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://choco.keennews.nl/404.html</guid>
-      <description>&lt;p&gt;Oops! Pagina kan niet gevonden worden. &lt;a href=&#34;https://choco.keennews.nl/&#34;&gt;Return home →&lt;/a&gt;&lt;/p&gt;
+      <guid>https://chocomare.nl/404.html</guid>
+      <description>&lt;p&gt;Oops! Pagina kan niet gevonden worden. &lt;a href=&#34;https://chocomare.nl/&#34;&gt;Return home →&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
