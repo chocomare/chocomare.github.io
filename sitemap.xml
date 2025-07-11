@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://choco.keennews.nl/privacy/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/terms/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/404/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/404.html</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://choco.keennews.nl/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
